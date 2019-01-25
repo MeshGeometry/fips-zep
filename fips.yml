@@ -1,7 +1,9 @@
 #
-# fips-immer
+# fips-zep
 #
 ---
 exports :
     header-dirs :
-        - immer
+        - zep/src
+        - zep/m3rdparty
+        - zep/src/mcommon
